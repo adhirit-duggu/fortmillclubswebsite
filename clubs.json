@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Coding Club",
+    "category": "Technology",
+    "description": "Learn how to build websites, apps, and games together.",
+    "meetingTime": "Thursdays at 3:30 PM in Room 204",
+    "links": {
+      "instagram": "https://instagram.com",
+      "discord": "https://discord.com",
+      "form": "https://forms.google.com"
+    }
+  },
+  {
+    "name": "Art & Design Club",
+    "category": "Creative",
+    "description": "Explore digital art, painting, sketching, and design projects.",
+    "meetingTime": "Tuesdays after school in Art Room",
+    "links": {
+      "instagram": "https://instagram.com",
+      "form": "https://forms.google.com"
+    }
+  }
+]
